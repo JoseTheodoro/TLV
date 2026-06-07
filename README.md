@@ -1,3 +1,6 @@
+ 
+ Esse respositório implementa TLV com o objetivo de estudo e aprendizado.
+
 # TLV (Type-Length-Value)
 
 **Padrão de arquitetura de encoding binário** para organizar a mensagem inteira. Consiste em organizar os dados em 3 blocos para que o computador saiba exatamente o que está lendo.
