@@ -1,5 +1,10 @@
  
- Esse respositório implementa TLV com o objetivo de estudo e aprendizado.
+ 
+[Projeto FIG](https://github.com/JoseTheodoro/fig) é o início disso tudo. Queria aprender mais sobre protocolos binários e puramente com o objetivo de aprender e estudar, resolvi implementar o protocolo MQTT.
+
+Na implementação do MQTT no projeto FIG, me deparei com TLV e LEB e tive que implementa-los, mas foi de forma superficial. Quero aprender mais sobre. Por isso esse repositório existe.
+
+Esse repositório tem como objetivo implementar o encoding binário TLV para estudo e aprendizado.
 
 # TLV (Type-Length-Value)
 
